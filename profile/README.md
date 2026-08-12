@@ -1,33 +1,34 @@
-<img width="300" height="150" alt="Screenshot from 2026-01-13 01-21-35" src="https://github.com/user-attachments/assets/8a78369e-4260-4702-83ee-f22e538d993f" />
+<img src="https://github.com/user-attachments/assets/8a78369e-4260-4702-83ee-f22e538d993f" />
 
+> Software and AI Systems That Work
 
-> AI Voice Assistant That Never Misses
-
-
-VoicePls helps businesses never miss a customer call again. Our AI voice assistants answer calls instantly, book appointments, and handle customer inquiries 24/7 so every opportunity is captured.
-
+Voicepls helps businesses design, build, and operate custom software and production AI systems. From intelligent automation and integrations to web platforms and voice agents, we turn business requirements into reliable products.
 
 ## Key Capabilities
-- **24/7 Phone Answering:** Our voice agents answer every call instantly, day or night.  
-- **Inbound & Outbound Leads:** Handle inbound calls or generate outbound leads—your choice.  
-- **Auto Appointment Booking:** Schedule appointments automatically, synced with your calendar.  
-- **Full Integration Service:** Connect seamlessly with your CRM, calendar, and business tools.  
-- **Custom Voice Agent:** Built exactly for your business requirements.  
-- **Complete Call Analytics:** Receive detailed call reports, transcriptions, and insights.
+
+- **Custom Software:** Web platforms, internal tools, APIs, and business applications.
+- **AI Systems:** LLM applications, RAG, intelligent search, and AI agents.
+- **Automation & Integrations:** Connect data, CRMs, calendars, and existing business tools.
+- **Voice AI:** Handle calls, appointments, qualification, CRM updates, and human handoffs.
+- **Production Support:** Deploy, monitor, maintain, and improve systems after launch.
+- **Engineering Partnerships:** Ongoing technical support and product development.
 
 ## How It Works
-1. **Customer Calls Your Business**  
-   Your voice agent answers instantly. No missed calls, 24/7.  
-2. **Voice Agent Handles Everything**  
-   Answers questions, books appointments, captures lead info automatically.  
-3. **You Get Complete Reports**  
-   Receive detailed call summaries, transcriptions, and lead insights.
 
+1. **Understand Your Workflow**  
+   We identify your users, goals, data, integrations, and technical constraints.
 
-## Why VoicePls
-Our AI voice agents are simple, reliable, and always on. They let your team focus on what matters most while ensuring customers are always heard and attended to.
+2. **Design and Build**  
+   Our team develops the software, AI workflows, infrastructure, and integrations.
 
+3. **Launch and Improve**  
+   We deploy, monitor, and improve the system using real production feedback.
+
+## Why Voicepls
+
+Voicepls is an AI-first software engineering company. We build practical, reliable systems around how your business already works—whether you need a complete product, an AI capability, or a long-term engineering partner.
 
 ## Contact
-Have a question or want to work with us? Reach out:  
-**calendly:** https://calendly.com/voicepls/30min
+
+Have a question or want to work with us?  
+**Calendly:** https://calendly.com/voicepls/30min
